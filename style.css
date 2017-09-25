@@ -1,6 +1,5 @@
 body {
-	background-color: #E6FFFF;
-	color: #355354;
+	color: #62C8CB;
 	font-size: 20px;
 	font-family: Helvetica;
 	line-height: 1.5em;
@@ -13,4 +12,13 @@ h1,h2 {
 }
 p {
 	padding-bottom: 10px;
+}
+.column1 {
+	background: #D8EDEE;
+}
+.column2 {
+	background: #C0F0F2;
+}
+.column3 {
+	background: #fff;
 }
